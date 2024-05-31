@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Gabarito", sans-serif;
+}
+
+.Burger__B1 i,
+input,
+p {
+  display: inline-block;
+}
+
+.Burger__B1 {
+  width: 50%;
+  border: solid black 1px;
+  padding: 5px;
+  margin: 30px;
+  border-radius: 30px;
+  text-align: center;
+
+  margin-left: 280px;
+}
+
+.Burger__B1 input {
+  border: none;
+  padding: 5px;
+  text-align: center;
+}
+
+.Burger__B1 input,
+:focus {
+  outline: none;
+}
+
+.Burger__B1 p {
+  margin-left: 280px;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  border-radius: 10px;
+  border: solid black 1px;
+}
+
+.Burger {
+  border-bottom: solid black 1px;
+}
+
+.Burger__B2 {
+  display: inline-block;
+  justify-content: space-between;
+}
+
+.Burger2 {
+  margin: 5px;
+}
+
+.Burger2__B5 {
+  display: inline-block;
+
+  margin-left: 70%;
+}
+
+.Burger7 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.Burger8 {
+  margin: 15px;
+  text-align: center;
+}
+
+.Burger9 img {
+  display: inline-block;
+  width: 250px;
+  height: 200px;
+  margin-right: 45px;
+  padding: 5x;
+  margin: 30px;
+  border-radius: 10px;
+}
+
+.Burger18 {
+  padding: 5px;
+  background-color: black;
+  color: white;
+  margin: 10px;
+}
+
+.Burger18 img {
+  margin-right: 350px;
+  border-radius: 10px;
+}
+
+.Burger18 p {
+  margin: 10px;
+}
+
+.Burger18 input {
+  text-align: center;
+  display: block;
+  margin: 15px;
+
+  margin-left: 500px;
+}
+
+.Burger18 h1 {
+  text-align: center;
+}
+
+.Burger18 button {
+  text-align: center;
+  padding: 5px;
+  margin-left: 550px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+}
